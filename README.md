@@ -1,3 +1,5 @@
+⚠ ARCHIVED: This method is no longer recommended. Just use the [Canta](https://github.com/samolego/Canta) and [Shizuku](https://github.com/RikkaApps/Shizuku) apps on Android to remove any bloatware.
+
 # XiaomiADBFastbootTools by Szaki
 
 Hosts the (now depcirated) XiaomiADBFastbootTools.jar file for removing bloatware from Xiaomi phones.
